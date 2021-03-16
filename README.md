@@ -1,4 +1,4 @@
-![Nile](https://github.com/promisinghan/blockchain_IP_marketplace/blob/main/Nile%20project3%20team%20trademark.png "Nile.com: Blockchain Marketplace for Intellectual Properties using cutting edge Auction Smart Contract in Solidty")
+![Nile](https://github.com/promisinghan/Nile/blob/main/Nile%20project3%20team%20trademark.png "Nile.com: Blockchain Marketplace for Intellectual Properties using cutting edge Auction Smart Contract in Solidty")
 # **Nile**
 
 ## What is Nile?
@@ -15,6 +15,7 @@ Blockchain Marketplace for Intellectual Properties using cutting edge Auction Sm
 
 ## Composition of our Smart Contracts
 - Registration of IP
+
 - Auction/Marketplace
 1. Bidding
 2. Completing transaction
