@@ -2,7 +2,7 @@
 # **Nile**
 
 ## What is Nile?
-Blockchain Marketplace for Intellectual Properties using cutting edge Auction Smart Contract in Solidity
+E-auction on Blockchain for Intellectual Properties using cutting edge Auction Smart Contract in Solidity
 
 ## Description
 The Nile Marketplace component provides a trading platform for intellectual property trademarks, copyrights, patents, trade secrets using blockchain-based smart contracts. It can be used to implement auctions using different pricing models and follow the trade transactions to conclusions including successful receipt of the traded item.
